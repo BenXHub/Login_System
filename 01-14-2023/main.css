@@ -1,0 +1,39 @@
+body{
+    background-color: #111;
+    font-family: 'helvetica', sans-serif;
+}
+
+.container{
+    margin-top: 15%;
+}
+
+h1 , p{
+color: white;
+font-size: 30px;
+}
+
+h1{
+font-size: 60px;
+
+}
+
+span{
+background-color: orange;
+color: #000;
+padding: 6px;
+border-radius: 5px;
+
+}
+
+p{
+letter-spacing: 15px;
+}
+  
+.button1 {
+    background-color: rgba(17, 17, 17, 0.084);
+    border: 2px solid white;
+}
+
+.button2 {
+    background-color: orange;
+}
