@@ -1,0 +1,44 @@
+body {
+    background-image:url('img/BenjaminekeBG.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    -webkit-font-smoothing: antialiased;
+    padding-top: 3%;
+
+    font: 14px;
+    font-family: serif;
+}
+
+.container{
+    height: 100%;
+    align-content: center;
+    }
+
+h2,
+p{
+    text-align: center;
+}
+
+.wrapper{ width: 360px; padding: 10px; }
+
+.form-control{
+    background:transparent!important;
+    color:black;
+    font-size: 18px!important;
+}
+
+.card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+.card-header h3{
+    color: white;
+}
+
